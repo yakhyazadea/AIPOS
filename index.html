@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQL Query Page</title>
+
+    <style>
+        #querySection {
+            padding-top: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        #queryInput {
+            width: 100%;
+            font-size: 12px;
+            padding: 10px;
+            border: 1px solid black;
+            border-radius: 5px; 
+        }
+
+        button {
+            font-size: 12px;
+            padding: 10px 20px;
+            border: 1px solid black;
+            border-radius: 5px; 
+            background-color: lightpink; /* Change background color to lightpink */
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #ff99cc;  /* Change hover background color to a lighter pink */
+        }
+    </style>
+</head>
+<body>
+    <div id="querySection">
+        <form action="/query" method="post">
+            <textarea id="queryInput" name="query" rows="4" cols="50" placeholder="Enter SQL Query"></textarea>
+            <br>
+            <button type="submit">Execute Query</button>
+        </form>
+    </div>
+</body>
+</html>
+

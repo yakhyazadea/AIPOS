@@ -1,0 +1,36 @@
+Error executing query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ffff' at line 1
+Error executing SQL query: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ffff' at line 1
+Error executing query: 1146 (42S02): Table 'database_1.users' doesn't exist
+Error executing SQL query: 1146 (42S02): Table 'database_1.users' doesn't exist
+Error executing query: 1054 (42S22): Unknown column '‘Alina’' in 'field list'
+Error executing SQL query: 1054 (42S22): Unknown column '‘Alina’' in 'field list'
+Error executing query: 1146 (42S02): Table 'database_1.users' doesn't exist
+Error executing SQL query: 1146 (42S02): Table 'database_1.users' doesn't exist
+Error communicating with the API server: 'NoneType' object is not subscriptable
+Error communicating with the API server: 'NoneType' object is not subscriptable
+Error communicating with the API server: 'NoneType' object is not subscriptable
+Error communicating with the API server: list index out of range
+Error executing query: 2014 (HY000): Commands out of sync; you can't run this command now
+Error executing SQL query: 2014 (HY000): Commands out of sync; you can't run this command now
+Error executing query: 2014 (HY000): Commands out of sync; you can't run this command now
+Error executing SQL query: 2014 (HY000): Commands out of sync; you can't run this command now
+Error executing query: 2014 (HY000): Commands out of sync; you can't run this command now
+Error executing SQL query: 2014 (HY000): Commands out of sync; you can't run this command now
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: Unread result found
+Error executing SQL query: Unread result found
+Error executing query: 1050 (42S01): Table 'customers_4' already exists
+Error executing SQL query: 1050 (42S01): Table 'customers_4' already exists
+Error executing query: 1054 (42S22): Unknown column 'Violetta' in 'field list'
+Error executing SQL query: 1054 (42S22): Unknown column 'Violetta' in 'field list'
